@@ -10,3 +10,7 @@
 9. [The AAA Model: Accounting](./the-AAA-model-accounting.md)
 10. [Security vs Convenience](./security-vs-convenience.md)
 11. [Threat Agents](./threat-agents.md)
+12. [Introduction to Cryptography](./introduction-to-cryptography.md)
+13. [Kerckhoffs's Principle](./kerckhoffs-principle.md)
+14. [General Phylosophy for secure programming](./general-phylosophy-for-secure-programming.md)
+15. [What is the secure program?]()
